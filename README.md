@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Weather App Project JavaScript | CodingNepal</title>
+    
     <link rel="stylesheet" href="task 5.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="task 5.js" defer></script>
