@@ -4,9 +4,7 @@
   <head>
     <meta charset="utf-8">
     
-    <link rel="stylesheet" href="task 5.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="task 5.js" defer></script>
+   
   </head>
   <body>
     <h1>Weather Dashboard</h1>
